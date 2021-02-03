@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Sohail Shams",
+    "occupation": "Freelance Web Developer",
+    "description": "I am passionate about Software Development and love taking on new challenges",
+    "image": "sohail3.jpg",
+    "bio": "I am a passionate Software Developer with expertise in developing mobile responsive web applications. I have a keen interest in continually learn and improve my skills in creating high-quality web applications and writing clean code. I am a well organized and structured person who loves taking on new challenges. In my spare time I enjoy writing code, and learning new technologies and programming languages.",
+    "contactmessage": "Let's work together!",
+    "email": "sohailshamsramary@gmail.com",
+    "phone": "+45 50909122",
+    "address": {
+      "street": "Høje Gladsaxe 67",
+      "city": "Copenhagen",
+      "state": "Capital Region",
+      "zip": "2860"
+    },
+    
+    "resumedownload": "CV.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sohail.252",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-sohail-shams-56995126/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sohailshams",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Code Institute, Dublin - Ireland",
+        "degree": "Diploma in Software Development",
+        "graduated": "December 2020"
+      }
+    ],
+    "educationTwo": [
+      {
+        "schoolTwo": "Linnæus University, Kalmar - Sweden",
+        "degreeTwo": "Master in Marketing",
+        "graduatedTwo": "December 2010"
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Explore Copenhagen (JS/BootStrap/Google Api)",
+        "category": "",
+        "image": "explore-cph.jpg",
+        "url": "https://sohailshams.github.io/explore-copenhagen/"
+      },
+      {
+        "title": "Recipebook (Python/Flak MongoDB Materialize)",
+        "category": "",
+        "image": "recipe-book.jpg",
+        "url": "http://mss-recipebook.herokuapp.com/"
+      },
+      {
+        "title": "Fitness Home (Python/Django SQLite3 BootStrap)",
+        "category": "",
+        "image": "fitness-home.jpg",
+        "url": "http://mss-fitness-home.herokuapp.com/"
+      },
+      {
+        "title": "Expense Tracker (React JS Materialize)",
+        "category": "",
+        "image": "expense-tracker.jpg",
+        "url": "https://sohailshams.github.io/expense-tracker/"
+      },
+      {
+        "title": "Covid-19 Tracker (React JS Material UI)",
+        "category": "",
+        "image": "covid-tracker.jpg",
+        "url": "https://covid-19-tracker-78734.web.app/"
+      },
+      {
+        "title": "Book List (React JS)",
+        "category": "",
+        "image": "book-list.jpg",
+        "url": "https://sohailshams.github.io/book-list/"
+      },
+      {
+        "title": "i-Clothing (React JS Redux SASS)",
+        "category": "",
+        "image": "i-clothing.jpg",
+        "url": "mss-i-clothing.herokuapp.com"
+      }
+    ]
+  }
+}
